@@ -7,44 +7,44 @@
     "animated_secondary_initial_label": " en informatique",
     "animated_secondary_final_label": "Développeur",
     "image": "/pfp.webp",
-    "email": "falconyumn@gmail.com",
-    "url": "https://www.linkedin.com/in/arielfalcon/",
-    "summary": "Front-end developer, at the moment. I work on Angular and Vue with Typescript / HTML5 / SCSS. Currently learning about Back-end Development, Cloud Computing and DevOps.",
+    "email": "maxime.gosselin.etu@univ-lille.fr",
+    "url": "https://www.linkedin.com/in/maxime-gosselin/",
+    "summary": "Étudiant en BUT Informatique à la recherche d’un stage de conception et de développement",
     "theme": "red",
     "location": {
-      "address": "Alcalá de Henares",
-      "city": "Madrid",
-      "countryCode": "ES",
-      "region": "Spain"
+      "address": "Rue de la Gambette",
+      "city": "Nomain",
+      "countryCode": "FR",
+      "region": "France"
     },
     "profiles": [
       {
-        "network": "X / Twitter",
-        "icon": "ri:twitter-fill",
+        "network": "GitLab",
+        "icon": "mdi:gitlab",
         "color": "#1DA1F2",
         "username": "@arielGfalcon",
-        "url": "https://x.com/arielGfalcon"
+        "url": "https://gitlab.univ-lille.fr/maxime.gosselin.etu"
       },
       {
         "network": "LinkedIn",
         "icon": "ri:linkedin-fill",
         "color": "#0066C2",
-        "username": "Ariel Falcón",
-        "url": "https://linkedin.com/in/arielfalcon"
+        "username": "Maxime Gosselin",
+        "url": "https://www.linkedin.com/in/maxime-gosselin/"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
         "color": "#929AAB",
-        "username": "ArielFalcon",
-        "url": "https://github.com/ArielFalcon"
+        "username": "Maxime-Gosselin-42",
+        "url": "https://github.com/maxime-gosselin-42"
       },
       {
         "network": "Email",
         "icon": "ri:mail-fill",
         "color": "#D44638",
-        "username": "Ariel González Falcón",
-        "url": "mailto:falconyumn@gmail.com"
+        "username": "Maxime Gosselin",
+        "url": "mailto:maxime.gosselin.etu@univ-lille.fr"
       }
     ]
   },
