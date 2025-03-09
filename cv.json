@@ -1,11 +1,11 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Ariel G. Falcón",
-    "label": "Software Developer",
-    "animated_main_label": "developer",
-    "animated_secondary_initial_label": "software",
-    "animated_secondary_final_label": "front_end",
+    "name": "Maxime Gosselin",
+    "label": "Étudiants en informatique",
+    "animated_main_label": "Étudiants",
+    "animated_secondary_initial_label": " en informatique",
+    "animated_secondary_final_label": "Développeur",
     "image": "/pfp.webp",
     "email": "falconyumn@gmail.com",
     "url": "https://www.linkedin.com/in/arielfalcon/",
