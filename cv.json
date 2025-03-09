@@ -3,10 +3,10 @@
   "basics": {
     "name": "Maxime Gosselin",
     "label": "Étudiants en informatique",
-    "animated_main_label": "Étudiants",
-    "animated_secondary_initial_label": " en informatique",
+    "animated_main_label": "",
+    "animated_secondary_initial_label": "Étudiant en informatique",
     "animated_secondary_final_label": "Développeur",
-    "image": "/pfp.webp",
+    "image": "/pfp.jpg",
     "email": "maxime.gosselin.etu@univ-lille.fr",
     "url": "https://www.linkedin.com/in/maxime-gosselin/",
     "summary": "Étudiant en BUT Informatique à la recherche d’un stage de conception et de développement",
@@ -50,92 +50,31 @@
   },
   "education": [
     {
-      "institution": "TEIDE Formation Center – Spain",
-      "url": "https://www.linkedin.com/company/teide-centros-de-formaci%C3%B3n/",
-      "area": "Web Development",
+      "institution": "BUT Informatique - Université de Lille",
+      "url": "https://www.univ-lille.fr/",
+      "area": "Parcours A : Réalisation d'applications, conception, développement, validation",
       "studyType": "Full-time student",
-      "startDate": "2023-04-01",
-      "endDate": "2023-09-01"
+      "startDate": "2023",
+      "endDate": "2026"
     },
     {
-      "institution": "Calixto García Medical School – Cuba",
-      "url": "https://www.linkedin.com/company/hospital-universitario-calixto-garcia/?originalSubdomain=cu",
-      "area": "Medicine (unfinished)",
+      "institution": "Baccalauréat Général - Lycée Charlotte Perriand",
+      "url": "https://lpo-charlotte-perriand-genech.59.ac-lille.fr/",
+      "area": "Spécialités NSI / Mathématiques, Option Maths Expertes",
       "studyType": "Full-time student",
-      "startDate": "2018-9-01",
-      "endDate": "2021-7-01"
+      "startDate": "2019",
+      "endDate": "2022"
     }
   ],
   "certificates": [
-    {
-      "name": "AWS Certified Developer – Associate",
-      "date": "2025-05-01",
-      "url": "",
-      "issuer": "Amazon"
-    },
-    {
-      "name": "C1 Advanced English",
-      "date": "2025-01-03",
-      "url": "https://cert.efset.org/es/6jDrGH",
-      "issuer": "EF SET"
-    }
   ],
   "work": [
-    {
-      "name": "Zener Soft Consulting",
-      "position": "Front-end Developer",
-      "location_type": "Remote",
-      "location": "ES",
-      "url": "https://www.linkedin.com/company/aitor-pelaez-zenerconsulting-com/",
-      "startDate": "2023-07-03",
-      "endDate": null,
-      "summary": "Experienced in developing high-complexity, scalable, data-driven front-end projects with a focus on performance, user experience, and system integration. Participated in development of a complex Micro-services Hexagonal DDD Spring Java project.",
-      "highlights": [
-        "Developed a data-intensive Angular project for internal use in the national healthcare system, focusing on managing complex data sets and implementing business logic."
-      ],
-      "responsibilities": [
-        "Developed and maintained front-end projects, ensuring scalability, performance, clean code, efficient architecture and robust user experiences.",
-        "Collaborated with cross-functional teams of developers, designers, and project managers to deliver high-quality solutions.",
-        "Ensured code quality and optimized front-end performance to meet user needs and business objectives.",
-        "Managed complex, data-intensive projects, ensuring smooth integration of business logic and user interfaces.",
-        "Designed and developed highly reactive components and workflows to improve application efficiency and user interaction."
-      ],
-      "achievements": [
-        "Optimized front-end performance by resolving critical issues, improving page load times, and enhancing user experience.",
-        "Developed an internal tool to streamline client-owned code documentation, introducing interactive design guidelines and testable components.",
-        "Created a highly complex Angular application for the national healthcare system, successfully handling large-scale data and implementing intricate business logic.",
-        "Built reusable and scalable Vue components for a multinational client, ensuring consistency and improving code quality across multiple platforms."
-      ],
-      "skills": {
-        "HTML5": "simple-icons:html5",
-        "CSS3": "ri:css3-fill",
-        "SCSS": "simple-icons:sass",
-        "Bootstrap": "simple-icons:bootstrap",
-        "JavaScript ECMA6+": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vue": "mdi:vuejs",
-        "Angular": "simple-icons:angular",
-        "Jasmine": "simple-icons:jasmine",
-        "Jest": "simple-icons:jest",
-        "Java": "ri:java-line",
-        "Spring": "simple-icons:spring",
-        "NodeJS": "ri:nodejs-line",
-        "Postman": "simple-icons:postman",
-        "i18n": "simple-icons:i18next",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "Figma": "simple-icons:figma",
-        "Jira": "simple-icons:jira",
-        "Kubernetes": "simple-icons:kubernetes",
-        "Docker": "simple-icons:docker"
-      }
-    }
   ],
   "skills": [
     {
       "name": "HTML",
       "icon": "simple-icons:html5",
-      "level": "Advanced",
+      "level": "Avancé",
       "keywords": [
         "Web Development",
         "Frontend"
@@ -144,39 +83,17 @@
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
-      "level": "Advanced",
+      "level": "Avancé",
       "keywords": [
         "Web Development",
         "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "SCSS",
-      "icon": "simple-icons:sass",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Preprocessor",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
         "Responsive Design"
       ]
     },
     {
       "name": "Bootstrap",
       "icon": "simple-icons:bootstrap",
-      "level": "Intermediate",
+      "level": "Intermédiaire",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -187,7 +104,7 @@
     {
       "name": "JavaScript",
       "icon": "simple-icons:javascript",
-      "level": "Advanced",
+      "level": "Avancé",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -198,7 +115,7 @@
     {
       "name": "TypeScript",
       "icon": "simple-icons:typescript",
-      "level": "Advanced",
+      "level": "Débutant",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -207,42 +124,9 @@
       ]
     },
     {
-      "name": "Angular",
-      "icon": "simple-icons:angular",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Framework",
-        "UI"
-      ]
-    },
-    {
-      "name": "RxJS",
-      "icon": "simple-icons:reactivex",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Reactive Programming",
-        "JavaScript"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
       "name": "Astro",
       "icon": "simple-icons:astro",
-      "level": "Intermediate",
+      "level": "Débutant",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -253,7 +137,7 @@
     {
       "name": "Node",
       "icon": "ri:nodejs-line",
-      "level": "Intermediate",
+      "level": "Débutant",
       "keywords": [
         "Web Development",
         "Backend",
@@ -262,9 +146,9 @@
       ]
     },
     {
-      "name": "PNPM",
-      "icon": "simple-icons:pnpm",
-      "level": "Beginner",
+      "name": "NPM",
+      "icon": "simple-icons:npm",
+      "level": "Débutant",
       "keywords": [
         "Package Manager",
         "Web Development",
@@ -275,37 +159,25 @@
     {
       "name": "Java",
       "icon": "ri:java-line",
-      "level": "Beginner",
+      "level": "Avancé",
       "keywords": [
         "Web Development",
         "Backend"
       ]
     },
     {
-      "name": "Spring",
-      "icon": "simple-icons:spring",
-      "level": "Beginner",
+      "name": "JavaFX",
+      "icon": "ri:java-line",
+      "level": "Intermédiaire",
       "keywords": [
         "Web Development",
-        "Backend",
-        "Java Framework"
-      ]
-    },
-    {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Beginner",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
         "Backend"
       ]
     },
     {
       "name": "MySQL",
       "icon": "simple-icons:mysql",
-      "level": "Beginner",
+      "level": "Avancé",
       "keywords": [
         "Backend",
         "Databases",
@@ -316,7 +188,7 @@
     {
       "name": "PostgreSQL",
       "icon": "simple-icons:postgresql",
-      "level": "Beginner",
+      "level": "Avancé",
       "keywords": [
         "Backend",
         "Databases",
@@ -327,7 +199,7 @@
     {
       "name": "Git",
       "icon": "mdi:git",
-      "level": "Advanced",
+      "level": "Avancé",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -337,7 +209,7 @@
     {
       "name": "GitHub",
       "icon": "mdi:github",
-      "level": "Advanced",
+      "level": "Intermédiaire",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -346,38 +218,27 @@
       ]
     },
     {
-      "name": "AWS",
-      "icon": "simple-icons:amazonaws",
-      "level": "Beginner",
-      "keywords": [
-        "Cloud Computing",
-        "Backend",
-        "Infrastructure"
-      ]
-    },
-    {
       "name": "Docker",
       "icon": "mdi:docker",
-      "level": "Beginner",
+      "level": "Débutant",
       "keywords": [
         "Virtual Environments",
         "Backend"
       ]
     },
     {
-      "name": "Kubernetes",
-      "icon": "mdi:kubernetes",
-      "level": "Beginner",
+      "name": "Podman",
+      "icon": "simple-icons:podman",
+      "level": "Débutant",
       "keywords": [
         "Virtual Environments",
-        "Backend",
-        "Container Orchestration"
+        "Backend"
       ]
     },
     {
       "name": "Python",
       "icon": "simple-icons:python",
-      "level": "Beginner",
+      "level": "Intermédiaire",
       "keywords": [
         "Scripting",
         "Automation",
@@ -385,40 +246,26 @@
       ]
     },
     {
-      "name": "Jest",
-      "icon": "simple-icons:jest",
-      "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Jasmine",
-      "icon": "simple-icons:jasmine",
-      "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
       "name": "Shell",
       "icon": "simple-icons:shell",
-      "level": "Beginner",
+      "level": "Avancé",
       "keywords": [
         "Scripting",
         "Automation"
       ]
     },
     {
+      "name": "C",
+      "icon": "mdi:language-c",
+      "level": "Avancé",
+      "keywords": [
+        "Backend"
+      ]
+    },
+    {
       "name": "Linux",
       "icon": "simple-icons:linux",
-      "level": "Beginner",
+      "level": "Avancé",
       "keywords": [
         "OS",
         "Scripting",
@@ -426,31 +273,9 @@
       ]
     },
     {
-      "name": "Swagger",
-      "icon": "simple-icons:swagger",
-      "level": "Beginner",
-      "keywords": [
-        "API",
-        "Documentation",
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Postman",
-      "icon": "simple-icons:postman",
-      "level": "Intermediate",
-      "keywords": [
-        "API",
-        "Testing",
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
       "name": "Figma",
       "icon": "simple-icons:figma",
-      "level": "Beginner",
+      "level": "Débutant",
       "keywords": [
         "Prototyping",
         "Web Development",
@@ -460,12 +285,12 @@
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Français",
+      "fluency": "Langue Native"
     },
     {
-      "language": "English",
-      "fluency": "Advanced - C1"
+      "language": "Anglais",
+      "fluency": "Intermédiarie - B2"
     }
   ],
   "projects": [
