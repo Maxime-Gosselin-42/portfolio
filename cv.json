@@ -10,7 +10,7 @@
     "email": "maxime.gosselin.etu@univ-lille.fr",
     "url": "https://www.linkedin.com/in/maxime-gosselin/",
     "summary": "Étudiant en BUT Informatique à la recherche d’un stage de conception et de développement",
-    "theme": "red",
+    "theme": "blue",
     "location": {
       "address": "Rue de la Gambette",
       "city": "Nomain",
@@ -295,100 +295,56 @@
   ],
   "projects": [
     {
-      "name": "CV Matching System",
-      "isActive": true,
-      "description": "A propiertary code AI-driven CV matching system to connect the offer and the best candidates. Automates the recruitment process.",
-      "highlights": [
-        "🎯 Tailored job opportunities",
-        "✨ AI-driven complex workflows ",
-        "🚀 80% increase in productivity"
-      ],
-      "stack": {
-        "Python": "simple-icons:python",
-        "Redis": "simple-icons:redis",
-        "Firebase": "simple-icons:firebase",
-        "Google Cloud": "simple-icons:googlecloud",
-        "Claude": "ri:claude-fill",
-        "Groq": "ri:robot-2-fill"
-      },
-      "url": "https://www.gringojobs.com"
-    },
-    {
-      "name": "TODO List",
+      "name": "Assistant de Voyage",
       "isActive": false,
-      "description": "A simple app to showcase my skills in Angular. It's a TODO list with a beautiful and smooth UI, good user experience and best practices. Not finished yet.",
+      "description": "Projet de cours consistant à l'élaboration d'un assistant personnel de voyage. C'est un logiciel permettant de calculer, visualiser et comparer des itinéraires",
       "highlights": [
-        "📝 In progress",
-        "😮‍ Made-from-scratch complex components",
-        "😊 Beautiful and smooth UI, good user experience",
-        "\uD83E\uDD16 Server Side Rendering"
+        "🤝 Travail en équipe",
+        "Utilisation de graphe"
       ],
-      "github": "https://github.com/ArielFalcon/TODO-list",
+      "github": "https://github.com/Maxime-Gosselin-42/AssistantDeVoyage",
       "stack": {
-        "Angular": "simple-icons:angular",
-        "RxJS": "simple-icons:reactivex",
-        "TypeScript": "simple-icons:typescript",
-        "SCSS": "simple-icons:sass",
-        "NodeJS": "ri:nodejs-line",
-        "Firebase": "simple-icons:firebase"
+        "Java": "ri:java-line",
+        "JavaFx": "ri:java-line",
+        "VsCode": "mdi:microsoft-visual-studio-code"
       }
     },
     {
-      "name": "Portfolio",
-      "isActive": true,
-      "description": "This website! My personal portfolio, made with Astro. Integrates many themes and key shortcut actions.",
+      "name": "Classificateur K-NN",
+      "isActive": false,
+      "description": "Projet permettant de classer des données grâce à l'algorithme des K plus proches voisins.",
       "highlights": [
-        "🚀 Fast, modern and SEO-friendly",
-        "🎨 Printable CV generation",
-        "〔N〕Crazy NeoVim mode, try it!"
+        "Utilisation de patrons de conceptions",
+        "🤝 Travail en équipe"
+      ],
+      "github": "https://github.com/Maxime-Gosselin-42/Classificateur-KNN",
+      "stack": {
+        "Java": "ri:java-line",
+        "JavaFx": "ri:java-line"
+      }
+    },
+    {
+      "name": "La forêt Magique",
+      "isActive": false,
+      "description": "Le jeu \"La forêt Magique\" est le premier jeu que j'ai réalisé lors de mon BUT. L'objectif du projet était de créer un jeu ludo-pédagogique à destination d'élèves de primaire avec des questions de culture générale.",
+      "highlights": [
       ],
       "github": "https://github.com/ArielFalcon/portfolio",
       "stack": {
-        "Astro": "simple-icons:astro",
-        "TypeScript": "simple-icons:typescript",
-        "Tailwind": "mdi:tailwind",
-        "NodeJS": "ri:nodejs-line",
-        "PNPM": "simple-icons:pnpm",
-        "Vercel": "simple-icons:vercel"
+        "IJava": "ri:java-line"
       },
       "url": "https://www.arielfalcon.me"
     },
     {
-      "name": "AI Web Scraper",
+      "name": "Base de données Parcour Sup",
       "isActive": false,
-      "description": "A web scraper that uses AI to extract data from websites. It's a tool to automate the data extraction process, using machine learning to identify and extract data from websites.",
+      "description": "Nous avons élaboré et réfléchi à l'implémentation d'une base de données à partir d'un fichier CSV contenant des données issues de Parcoursup. Ensuite, nous avons établi un rapport statistique répondant à diverses questions pour lier ce projet au cours de statistiques. ",
       "highlights": [
-        "🤖 Simple script",
-        "🔍 Data Extraction",
-        "🌐 Web scraping"
       ],
       "stack": {
-        "Javascript": "simple-icons:javascript",
-        "Selenium": "simple-icons:selenium",
-        "ChromeDriver": "ri:chrome-fill",
-        "Groq": "ri:robot-2-fill"
-      },
-      "github": "https://github.com/ArielFalcon/ai_web_scrapper"
-    },
-    {
-      "name": "SpaceX Invaders",
-      "isActive": true,
-      "description": "A Space Invaders game with a retro look, made with Vue3 and TypeScript. It's a fun project to showcase my skills in Vue3 and TypeScript.",
-      "highlights": [
-        "🚀 Space Invaders game",
-        "🛸 Retro fun",
-        "🎮 Vue3 + TypeScript"
-      ],
-      "stack": {
-        "Vue3": "ri:vuejs-line",
-        "TypeScript": "simple-icons:typescript",
-        "CSS": "simple-icons:css",
-        "Vite": "simple-icons:vite",
-        "PNPM": "simple-icons:pnpm",
-        "Netlify": "simple-icons:netlify"
-      },
-      "github": "https://github.com/ArielFalcon/spacex-invaders",
-      "url": "https://spacex-invaders.netlify.app/"
+        "PostgreSQL" : "simple-icons:postgresql",
+        "Access" : "mdi:microsoft-access"
+      }
     }
   ]
 }
