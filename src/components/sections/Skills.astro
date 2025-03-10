@@ -1,12 +1,17 @@
 ---
 import Section from "../Section.astro";
 import { skills } from "@cv";
+skills.sort(function (a, b) {
+      return a.name.localeCompare(b.name);
+});
 import { Icon } from "astro-icon/components";
 ---
 
+
+
 <Section className={Astro.props.className} title="Compétences">
   <ul
-    class="inline-flex print:mt-4 flex-wrap gap-4 [&>li>svg]:text-skin-hue [&>li]:text-sm"
+  class="inline-flex print:mt-4 flex-wrap gap-4 [&>li>svg]:text-skin-hue [&>li]:text-sm"
   >
     {
       skills.map(({ name, icon, level }) => {
