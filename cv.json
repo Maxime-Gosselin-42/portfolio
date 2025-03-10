@@ -329,11 +329,10 @@
       "description": "Le jeu \"La forêt Magique\" est le premier jeu que j'ai réalisé lors de mon BUT. L'objectif du projet était de créer un jeu ludo-pédagogique à destination d'élèves de primaire avec des questions de culture générale.",
       "highlights": [
       ],
-      "github": "https://github.com/ArielFalcon/portfolio",
+      "github": "https://github.com/Maxime-Gosselin-42/La-Foret-Magique",
       "stack": {
         "IJava": "ri:java-line"
-      },
-      "url": "https://www.arielfalcon.me"
+      }
     },
     {
       "name": "Base de données Parcour Sup",
@@ -344,6 +343,16 @@
       "stack": {
         "PostgreSQL" : "simple-icons:postgresql",
         "Access" : "mdi:microsoft-access"
+      }
+    },
+    {
+      "name": "Legend of War",
+      "isActive": false,
+      "description": "Jeu créé en suivant les principes agiles. Il fallait réaliser ce projet sur l'espace d'une semaine en équipe de 5. Le langage requis était le Java et il fallait que l'interface soit réalisée dans un terminal. ",
+      "github": "https://github.com/Maxime-Gosselin-42/Legend-of-War",
+      "highlights": [
+      ],
+      "stack": {
       }
     }
   ]
