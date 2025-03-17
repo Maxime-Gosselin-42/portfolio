@@ -271,6 +271,10 @@
         "Scripting",
         "Automation"
       ]
+    },{
+      "name": "IntelliJ",
+      "icon" : "simple-icons:intellijidea",
+      "level" : "Avancé"
     },
     {
       "name": "Figma",
@@ -321,6 +325,23 @@
       "stack": {
         "Java": "ri:java-line",
         "JavaFx": "ri:java-line"
+      }
+    },
+    {
+      "name": "Villeneuve Chat",
+      "isActive": false,
+      "description": "Projet consistant à développer une application web de messagerie en binôme. Cette application fonctionne grâce à des Servlets et des JSP.",
+      "github": "https://gitlab.univ-lille.fr/maxime.gosselin.etu/sae4.a02.1",
+      "highlights": [
+        "🤝 Travail en équipe",
+        "Utilisation des Servlets et des JSP",
+        "Utilisation de patrons de conceptions",
+        "Interaction avec une base de données"
+      ],
+      "stack": {
+        "PostgreSQL" : "simple-icons:postgresql",
+        "Java": "ri:java-line",
+        "IDEA": "simple-icons:intellijidea"
       }
     },
     {
